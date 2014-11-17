@@ -1,0 +1,23 @@
+{
+  "name": "wikipedify",
+  "manifest_version": 2,
+  "version": "1.0",
+
+  "description": "Wikipedia wherever you go.",
+
+  "permissions": [
+    "tabs",
+    "http://*/*", 
+    "https://*/*"
+  ],
+
+  "content_scripts": [
+    {
+    "matches": ["http://*/*", "https://*/*"],
+    "css": ["wikipedify.css"],
+    "js": ["js/jquery-1.7.2.min.js", "js/spin.min.js", "wikipedify.js"]
+    }
+  ]
+}
+
+
