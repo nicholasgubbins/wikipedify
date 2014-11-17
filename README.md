@@ -18,6 +18,7 @@ Special thanks to [rbilgil's hoverpedia](https://github.com/rbilgil/hoverpedia) 
 - add an on/off switch into the browser toolbar
 - fix up the box-size when there is just one line of text
 - place the box at the best location so that no text is covered/the box appears pointing to the middle of the highlighted area
+- allow for all links in the first para to appear
 
 ![Screenshot 1](https://raw.github.com/nicholasgubbins/wikipedify/master/screenshots/ss1.png)
 ![Screenshot 2](https://raw.github.com/nicholasgubbins/wikipedify/master/screenshots/ss2.png)
