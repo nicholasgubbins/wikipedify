@@ -10,7 +10,6 @@ Special thanks to [rbilgil's hoverpedia](https://github.com/rbilgil/hoverpedia) 
 
 ###Features:
 - highlight any amount of text and get the key info from Wikipedia
-- takes the first paragraph from the Wikipedia
 - dynamically moving hoverbox to fit on the screen
 - includes a link to the Wikipedia page
 
